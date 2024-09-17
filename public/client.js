@@ -52,7 +52,7 @@ const chatTemplate =
         </label>
       </div>
       <div class="navbar-center flex flex-col">
-        <p>Feathers Chat</p>
+        <p>THE CHICKENSSS Chat!!!!!!!!!!!!!!!!!!!!!!</p>
         <label for="drawer-right" class="text-xs cursor-pointer">
           <span class="online-count">0</span> User(s)
         </label>
